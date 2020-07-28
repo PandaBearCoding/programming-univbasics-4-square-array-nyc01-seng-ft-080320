@@ -10,5 +10,6 @@ while counter < numbers.length do
   #puts (numbers ** 2)
   counter +=1
 end
+numbers
 end
   
