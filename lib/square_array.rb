@@ -7,8 +7,6 @@ def square_array(numbers)
   count = 0
 while count < numbers.length do
   puts numbers[count] = numbers[count] ** 2
-  #puts (numbers[count] ** 2)
-  #puts (numbers ** 2)
   count += 1
 end
 numbers
